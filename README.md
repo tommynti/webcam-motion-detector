@@ -1,6 +1,6 @@
 # webcam-motion-detector
 This is a python application which detects some movement in the camera by representing it with a red rectangle. Αlso, we represent in a graph when an object appears in the camera
-area.
+area. You should press 'q' to exit the app.
 ## Libraries/Technologies used :
 
 * python
